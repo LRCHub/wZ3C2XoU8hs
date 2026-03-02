@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "探せ ダイヤモンドリリー (=LOVE 6th ANNIVERSARY PREMIUM CONCERT)",
+  "base_artist": "=LOVE",
+  "createdAt": "2026-03-02T10:00:21.328723Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "探せ ダイヤモンドリリー  (＝LOVE全国ツアー2023「Today is your Trigger」)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_探せ_ダイヤモンドリリー_(=LOVE全国ツアー2023「Today_is_your_Trigger」)_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "探せ ダイヤモンドリリー",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_探せ_ダイヤモンドリリー_=LOVE.txt"
+    }
+  ]
+}
